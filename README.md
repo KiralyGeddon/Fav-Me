@@ -67,23 +67,7 @@ Construite avec `CustomTkinter` pour une interface utilisateur moderne et person
 
 ## 📸 Aperçu
 
-*(Insérez ici des captures d'écran de votre application en action. Exemples :)*
-
-* **Écran principal - Vue Dossiers :**
-    ![Screenshot 1 - Main View Folders](_votre_capture_ecran_dossiers.png_)
-    *(Remplacez `_votre_capture_ecran_dossiers.png_` par le chemin de votre image)*
-
-* **Écran principal - Vue Sites Web (avec favicons) :**
-    ![Screenshot 2 - Main View Websites](_votre_capture_ecran_sites_web.png_)
-    *(Remplacez `_votre_capture_ecran_sites_web.png_` par le chemin de votre image)*
-
-* **Fenêtre d'ajout/édition de favori :**
-    ![Screenshot 3 - Add/Edit Dialog](_votre_capture_ecran_ajout_edition.png_)
-    *(Remplacez `_votre_capture_ecran_ajout_edition.png_` par le chemin de votre image)*
-
-* **Fenêtre des paramètres de thème :**
-    ![Screenshot 4 - Theme Settings](_votre_capture_ecran_parametres_theme.png_)
-    *(Remplacez `_votre_capture_ecran_parametres_theme.png_` par le chemin de votre image)*
+*à venir*
 
 ## 📦 Technologies Utilisées
 
