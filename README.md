@@ -71,12 +71,15 @@ Construite avec `CustomTkinter` pour une interface utilisateur moderne et person
 ## 📸 Aperçu
 
 * **Écran principal - Vue Dossiers :**
+  
     ![Favoris Dossiers](https://github.com/KiralyGeddon/Fav-Me/blob/main/images/1.png)
    
 * **Écran principal - Vue Sites Web (avec favicons) :**
+  
     ![Favoris Websites](https://github.com/KiralyGeddon/Fav-Me/blob/main/images/2.png)
    
 * **Fenêtre d'ajout/édition de favori :**
+  
     ![Ajout de Favori](https://github.com/KiralyGeddon/Fav-Me/blob/main/images/3.png)
    
     ![Ajout de Dossier Favori](https://github.com/KiralyGeddon/Fav-Me/blob/main/images/4.png)
@@ -84,9 +87,11 @@ Construite avec `CustomTkinter` pour une interface utilisateur moderne et person
     ![Ajout de Site Web Favori](https://github.com/KiralyGeddon/Fav-Me/blob/main/images/5.png)
 
 * **Fenêtre des paramètres de thème :**
+  
     ![Theme Settings](https://github.com/KiralyGeddon/Fav-Me/blob/main/images/6.png)
     
 * **Mode Clair :**
+  
     ![Light Mode](https://github.com/KiralyGeddon/Fav-Me/blob/main/images/7.png)
 
 
@@ -130,17 +135,20 @@ python fav-v2.1.py
 ### Construire l'Exécutable (.exe) avec PyInstaller
 
 1.  **Installer PyInstaller** :
+   
     Si vous ne l'avez pas déjà fait, installez PyInstaller en utilisant pip :
     ```bash
     pip install pyinstaller
     ```
 
-2.  **Naviguez vers le répertoire du script** : Assurez-vous d'être dans le répertoire `script` où se trouve `fav-v2.1.py`.
+3.  **Naviguez vers le répertoire du script** :
+  
+   Assurez-vous d'être dans le répertoire `script` où se trouve `fav-v2.1.py`.
     ```bash
     cd Fav-Me/script
     ```
 
-3.  **Exécutez PyInstaller** :
+6.  **Exécutez PyInstaller** :
     ```bash
     pyinstaller --noconfirm --onefile --windowed --icon="Fav-Me.ico" --add-data "icons;icons" --add-data "settings.json;." --add-data "favs.json;." "fav-v2.1.py"
     ```
