@@ -1,0 +1,26 @@
+.
+├── README.md                  # Fichier Lisez moi du projet (repository) sur GitHub
+├── structure.txt              # Description de la structure du projet
+├── images/
+│   └── 1.png                  # Capture d'écran Dossiers Favori
+│   └── 2.png                  # Capture d'écran Siteweb favori
+│   └── 3.png                  # Capture d'écran ajout de favori
+│   └── 4.png                  # Capture d'écran ajouter dossier favori
+│   └── 5.png                  # Capture d'écran ajouter site web favori
+│   └── 6.png                  # Capture d'écran settings (themes)
+│   └── 7.png                  # Capture d'écran Light mode
+│   └── favicon.ico            # icone pour Setup
+├── Version Portable/
+│   └── Fav-v2.1.exe           # Logiciel de favori sans installation (version portable)
+├── Installateur/
+│   └── Fav-ME-2.1 Setup.exe   # Installateur de Fav-Me v2.1
+│   └── Readme.txt             # Fichier lisez moi de l'installateur
+└── script/
+    ├── fav-v2.1.py            # Script complet du projet
+    ├── add_icon.png           # Contenu de l'onglet "Import en Masse (CSV)"
+    ├── app_icon.png           # Contenu de l'onglet "Gestion des Utilisateurs"
+    ├── delete_icon.png        # Contenu de l'onglet "Gestion des Groupes"
+    └── edit_icon.png          # Contenu de l'onglet "Gestion des OU"
+    └── folder_icon.png        # Contenu de l'onglet "Gestion des OU"
+    └── settings_icon.png      # Contenu de l'onglet "Gestion des OU"
+    └── web_icon.png           # Contenu de l'onglet "Gestion des OU"
