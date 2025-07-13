@@ -122,5 +122,5 @@ Pour lancer l'application directement depuis le script Python :
 
 ```bash
 python fav-v2.1.py
-
+```
 
