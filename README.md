@@ -206,6 +206,8 @@ Ces fichiers sont créés et mis à jour dans le même répertoire que l'exécut
 
 ## 🤝 Contribution
 
+Merci à [Yann aka Nounoursss93](https://github.com/Nounoursss93) pour l'idée de base! 
+
 Les contributions sont les bienvenues ! Si vous avez des idées d'amélioration, des rapports de bugs ou de nouvelles fonctionnalités à proposer, n'hésitez pas à :
 
 1.  Faire un fork du dépôt.
