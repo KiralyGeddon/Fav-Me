@@ -82,10 +82,9 @@ Assurez-vous d'avoir Python 3.x installé sur votre système.
 
 1.  **Clonez le dépôt** (ou téléchargez le fichier `fav-v2.1.py` et les icônes) :
     ```bash
-    git clone [https://github.com/votre_utilisateur/votre_repo.git](https://github.com/votre_utilisateur/votre_repo.git)
-    cd votre_repo # Accédez au répertoire du projet
+    git clone [https://github.com/KiralyGeddon/Fav-Me](https://github.com/KiralyGeddon/Fav-Me)
+    cd Fav-Me # Accédez au répertoire du projet
     ```
-    *(Remplacez `votre_utilisateur` et `votre_repo` par les informations de votre dépôt GitHub)*
 
 2.  **Installez les dépendances Python :**
     ```bash
