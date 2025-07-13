@@ -68,8 +68,6 @@ Construite avec `CustomTkinter` pour une interface utilisateur moderne et person
 
 ## 📸 Aperçu
 
-## 📸 Aperçu
-
 * **Écran principal - Vue Dossiers :**
   
     ![Favoris Dossiers](https://github.com/KiralyGeddon/Fav-Me/blob/main/images/1.png)
