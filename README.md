@@ -143,7 +143,7 @@ python fav-v2.1.py
 
 2.  **Naviguez vers le répertoire du script** :
   
-   Assurez-vous d'être dans le répertoire `script` où se trouve `fav-v2.1.py`.
+    Assurez-vous d'être dans le répertoire `script` où se trouve `fav-v2.1.py`.
     ```bash
     cd Fav-Me/script
     ```
