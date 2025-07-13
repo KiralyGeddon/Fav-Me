@@ -20,14 +20,7 @@ Bienvenue sur **Fav-Me**, votre application de bureau intuitive pour gérer et a
     -   [Prérequis](#prérequis)
     -   [Installation](#installation)
     -   [Exécuter le Script Python](#exécuter-le-script-python)
-    -   [Construire l'Exécutable (.exe) avec PyInstaller](#construire-lexécutable-exe-avec-pyinstaller)
--   [📦 Versions Distribuées](#-versions-distribuées)
-    -   [Exécutable Autonome](#exécutable-autonome)
-    -   [Installateur Windows (Inno Setup)](#installateur-windows-inno-setup)
--   [🖥️ Utilisation](#️-utilisation)
--   [🗂️ Stockage des Données et Paramètres](#️-stockage-des-données-et-paramètres)
--   [🤝 Contribution](#-contribution)
--   [✉️ Contact](#️-contact)
+
 
 
 ## 🌟 À Propos de Fav-Me
