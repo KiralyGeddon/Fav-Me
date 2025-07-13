@@ -141,14 +141,14 @@ python fav-v2.1.py
     pip install pyinstaller
     ```
 
-3.  **Naviguez vers le répertoire du script** :
+2.  **Naviguez vers le répertoire du script** :
   
    Assurez-vous d'être dans le répertoire `script` où se trouve `fav-v2.1.py`.
     ```bash
     cd Fav-Me/script
     ```
 
-6.  **Exécutez PyInstaller** :
+3.  **Exécutez PyInstaller** :
     ```bash
     pyinstaller --noconfirm --onefile --windowed --icon="Fav-Me.ico" --add-data "icons;icons" --add-data "settings.json;." --add-data "favs.json;." "fav-v2.1.py"
     ```
